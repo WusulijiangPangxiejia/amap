@@ -1,5 +1,7 @@
-#!name=[Sukka] Local DNS Mapping
+#!name=Local DNS Mapping
 #!desc=Last Updated: 2024-11-04T03:17:56.799Z
+# AUTHOR: Sukka
+# REPO: https://ruleset.skk.moe/Modules/sukka_local_dns_mapping.sgmodule
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6
